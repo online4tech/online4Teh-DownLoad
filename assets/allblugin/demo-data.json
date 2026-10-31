@@ -489,7 +489,7 @@
         {
           "id": "vuplus",
           "label": "Vu+",
-          "count": 5,
+          "count": 6,
           "icon": "📦",
           "subcategories": [
             {
@@ -516,6 +516,11 @@
               "id": "vu-solo4k",
               "label": "Vu+ Solo 4K",
               "count": 0
+            },
+            {
+              "id": "vu-duo4kse",
+              "label": "Vu+ Duo 4K SE",
+              "count": 2
             }
           ]
         }
@@ -2387,15 +2392,15 @@
     },
     {
       "id": 142,
-      "name": "Vu+ Duo",
+      "name": "Vu+ Duo 4K SE — OpenATV 7.4",
       "category": "backup",
-      "subcategory": "vuplus",
+      "subcategory": "vu-duo4kse",
       "group": "Vu+",
       "description": "نسخة باك أب OpenATV 7.4 مخصصة لجهاز Vu+ Duo 4K SE. راجع موديل الجهاز قبل الاستعادة.",
       "version": "OpenATV 7.4",
       "date": "3 يوليو 2024",
       "downloads": 2239,
-      "keywords": "Vu+ Duo Vu+ النسخ الاحتياطية",
+      "keywords": "Vu+ Duo 4K SE OpenATV 7.4 النسخ الاحتياطية",
       "icon": "💾",
       "downloadUrl": "https://www.mediafire.com/file/5bmwrlm7gqrrq8w/openatv-7.4-vuduo4kse-backup-20240703_Rome7.zip",
       "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
@@ -5070,6 +5075,22 @@
       "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
       "detailUrl": "#",
       "compatibility": "Vu+ Duo 4K فقط"
+    },
+    {
+      "id": 155,
+      "name": "Vu+ Duo 4K SE — EGAMI 10.5 R7",
+      "category": "backup",
+      "subcategory": "vu-duo4kse",
+      "group": "Vu+",
+      "description": "نسخة باك أب EGAMI 10.5 R7 مخصصة لجهاز Vu+ Duo 4K SE. راجع موديل الجهاز قبل الاستعادة.",
+      "version": "EGAMI 10.5 R7",
+      "date": "3 يوليو 2024",
+      "keywords": "Vu+ Duo 4K SE EGAMI 10.5 R7 النسخ الاحتياطية",
+      "icon": "💾",
+      "downloadUrl": "https://www.mediafire.com/file/jcz1ga5js3j4d4z/egami-10.5.r7-vuduo4kse-backup-20240703_Rome7.zip",
+      "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
+      "detailUrl": "#",
+      "compatibility": "Vu+ Duo 4K SE فقط"
     }
   ]
 }
