@@ -505,7 +505,7 @@
             {
               "id": "vu-duo4k",
               "label": "Vu+ Duo 4K",
-              "count": 0
+              "count": 2
             },
             {
               "id": "vu-ultimo4k",
@@ -5038,6 +5038,38 @@
       "keywords": "تحديث فهارس الحزم للتشخيص repair-cmd 🛠 أوامر الإصلاح Enigma2 Dreambox Vu+ OpenATV OpenPLI OpenBH OpenVision Egami opkg update تحديث فهارس الحزم للتشخيص opkg update SSH Telnet Linux Shell Dreambox Vu+ Enigma2 OpenATV OpenPLI OpenBH OpenVision Egami",
       "group": "🛠 أوامر الإصلاح",
       "icon": "⌨️"
+    },
+    {
+      "id": 153,
+      "name": "Vu+ Duo 4K — OpenATV 7.5.1",
+      "category": "backup",
+      "subcategory": "vu-duo4k",
+      "group": "Vu+",
+      "description": "نسخة باك أب OpenATV 7.5.1 مخصصة لجهاز Vu+ Duo 4K. راجع موديل الجهاز قبل الاستعادة.",
+      "version": "OpenATV 7.5.1",
+      "date": "30 أغسطس 2025",
+      "keywords": "Vu+ Duo 4K OpenATV 7.5.1 النسخ الاحتياطية",
+      "icon": "💾",
+      "downloadUrl": "https://www.mediafire.com/file/isygzwbhd2bkz5a/openatv-7.5.1-vuduo4k-backup-20250830_1514_usb.zip/file",
+      "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
+      "detailUrl": "#",
+      "compatibility": "Vu+ Duo 4K فقط"
+    },
+    {
+      "id": 154,
+      "name": "Vu+ Duo 4K — EGAMI 11.0 R8",
+      "category": "backup",
+      "subcategory": "vu-duo4k",
+      "group": "Vu+",
+      "description": "نسخة باك أب EGAMI 11.0 R8 مخصصة لجهاز Vu+ Duo 4K. راجع موديل الجهاز قبل الاستعادة.",
+      "version": "EGAMI 11.0 R8",
+      "date": "14 ديسمبر 2025",
+      "keywords": "Vu+ Duo 4K EGAMI 11.0 R8 النسخ الاحتياطية",
+      "icon": "💾",
+      "downloadUrl": "https://www.mediafire.com/file/smyi04yfocjal9g/egami-11.0.r8-vuduo4k-backup-20251214_1435_usb.zip/file",
+      "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
+      "detailUrl": "#",
+      "compatibility": "Vu+ Duo 4K فقط"
     }
   ]
 }
