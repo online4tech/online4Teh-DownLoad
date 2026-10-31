@@ -5045,14 +5045,14 @@
       "icon": "⌨️"
     },
     {
-      "id": 153,
-      "name": "Vu+ Duo 4K — OpenATV 7.4",
+      "id": 4153,
+      "name": "Vu+ Duo 4K — OpenATV 7.5.1",
       "category": "backup",
       "subcategory": "vu-duo4k",
       "group": "Vu+",
       "description": "نسخة باك أب OpenATV 7.4 لجهاز Vu+ Duo 4K بواسطة Rome7. صفحة الملفات تعرض النسخة وروابطها الخاصة بالموديل.",
-      "version": "OpenATV 7.4",
-      "date": "2 يوليو 2024",
+      "version": "OpenATV 7.5.1",
+      "date": "30 أغسطس 2025",
       "keywords": "Vu+ Duo 4K OpenATV 7.4 النسخ الاحتياطية",
       "icon": "💾",
       "downloadUrl": "https://www.mediafire.com/file/isygzwbhd2bkz5a/openatv-7.5.1-vuduo4k-backup-20250830_1514_usb.zip/file",
@@ -5061,14 +5061,14 @@
       "compatibility": "Vu+ Duo 4K فقط"
     },
     {
-      "id": 154,
-      "name": "Vu+ Duo 4K — EGAMI 10.4",
+      "id": 4154,
+      "name": "Vu+ Duo 4K — EGAMI 11.0 R8",
       "category": "backup",
       "subcategory": "vu-duo4k",
       "group": "Vu+",
       "description": "نسخة باك أب EGAMI 10.4 لجهاز Vu+ Duo 4K بواسطة Romeh. صفحة الملفات تعرض النسخة وروابطها الخاصة بالموديل.",
-      "version": "EGAMI 10.4",
-      "date": "12 يونيو 2023",
+      "version": "EGAMI 11.0 R8",
+      "date": "14 ديسمبر 2025",
       "keywords": "Vu+ Duo 4K EGAMI 10.4 النسخ الاحتياطية",
       "icon": "💾",
       "downloadUrl": "https://www.mediafire.com/file/smyi04yfocjal9g/egami-11.0.r8-vuduo4k-backup-20251214_1435_usb.zip/file",
@@ -5077,7 +5077,7 @@
       "compatibility": "Vu+ Duo 4K فقط"
     },
     {
-      "id": 155,
+      "id": 4155,
       "name": "Vu+ Duo 4K SE — EGAMI 10.5 R7",
       "category": "backup",
       "subcategory": "vu-duo4kse",
