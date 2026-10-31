@@ -500,7 +500,7 @@
             {
               "id": "vu-uno4kse",
               "label": "Vu+ Uno 4K SE",
-              "count": 0
+              "count": 3
             },
             {
               "id": "vu-duo4k",
@@ -5091,6 +5091,54 @@
       "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
       "detailUrl": "#",
       "compatibility": "Vu+ Duo 4K SE فقط"
+    },
+    {
+      "id": 310,
+      "name": "Vu+ Uno 4K SE — EGAMI 11.0 R21",
+      "category": "backup",
+      "subcategory": "vu-uno4kse",
+      "group": "Vu+",
+      "description": "نسخة باك أب EGAMI 11.0 R21 مخصصة لجهاز Vu+ Uno 4K SE. راجع موديل الجهاز قبل الاستعادة.",
+      "version": "EGAMI 11.0 R21",
+      "date": "22 أغسطس 2026",
+      "keywords": "Vu+ Uno 4K SE EGAMI 11.0 R21 النسخ الاحتياطية",
+      "icon": "💾",
+      "downloadUrl": "https://www.mediafire.com/file/b650mz4s93d12dr/egami-11.0.r21-vuuno4kse-backup-20260822_BY.Rome7.zip/file",
+      "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
+      "detailUrl": "#",
+      "compatibility": "Vu+ Uno 4K SE فقط"
+    },
+    {
+      "id": 311,
+      "name": "Vu+ Uno 4K SE — OpenATV 7.5.1",
+      "category": "backup",
+      "subcategory": "vu-uno4kse",
+      "group": "Vu+",
+      "description": "نسخة باك أب OpenATV 7.5.1 مخصصة لجهاز Vu+ Uno 4K SE. راجع موديل الجهاز قبل الاستعادة.",
+      "version": "OpenATV 7.5.1",
+      "date": "5 أغسطس 2026",
+      "keywords": "Vu+ Uno 4K SE OpenATV 7.5.1 النسخ الاحتياطية",
+      "icon": "💾",
+      "downloadUrl": "https://www.mediafire.com/file/rtlhobp5ys0uzdo/openatv-7.5.1-vuuno4kse-backup-20260805_1701_usb.zip/file",
+      "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
+      "detailUrl": "#",
+      "compatibility": "Vu+ Uno 4K SE فقط"
+    },
+    {
+      "id": 312,
+      "name": "Vu+ Uno 4K SE — Pure2 7.6",
+      "category": "backup",
+      "subcategory": "vu-uno4kse",
+      "group": "Vu+",
+      "description": "نسخة باك أب Pure2 7.6 مخصصة لجهاز Vu+ Uno 4K SE. راجع موديل الجهاز قبل الاستعادة.",
+      "version": "Pure2 7.6",
+      "date": "5 أغسطس 2026",
+      "keywords": "Vu+ Uno 4K SE Pure2 7.6 النسخ الاحتياطية",
+      "icon": "💾",
+      "downloadUrl": "https://www.mediafire.com/file/ibngfj4ekxxha0a/pure2-7.6-vuuno4kse-backup-20260805_1741_usb.zip/file",
+      "guideUrl": "https://online4tech.github.io/online4Tech/tutorials/backup-install.html",
+      "detailUrl": "#",
+      "compatibility": "Vu+ Uno 4K SE فقط"
     }
   ]
 }
