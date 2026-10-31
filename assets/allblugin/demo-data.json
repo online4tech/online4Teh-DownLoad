@@ -451,33 +451,33 @@
       "id": "backup",
       "label": "النسخ الاحتياطية",
       "icon": "💾",
-      "count": 2,
+      "count": 12,
       "subcategories": [
         {
           "id": "dreambox",
           "label": "Dreambox",
-          "count": 5,
+          "count": 4,
           "icon": "📦",
           "subcategories": [
             {
               "id": "dm-one",
               "label": "DM One",
-              "count": 0
+              "count": 1
             },
             {
               "id": "dm-two",
               "label": "DM Two",
-              "count": 0
+              "count": 1
             },
             {
               "id": "dm920",
               "label": "DM 920",
-              "count": 0
+              "count": 1
             },
             {
               "id": "dm900",
               "label": "DM 900",
-              "count": 0
+              "count": 1
             },
             {
               "id": "dm525-520",
@@ -489,13 +489,13 @@
         {
           "id": "vuplus",
           "label": "Vu+",
-          "count": 6,
+          "count": 8,
           "icon": "📦",
           "subcategories": [
             {
               "id": "vu-zero4k",
               "label": "Vu+ Zero 4K",
-              "count": 0
+              "count": 1
             },
             {
               "id": "vu-uno4kse",
